@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:vendor_app_sample/presentation/resources/style_resources.dart';
+import 'package:vendor_app_sample/resources/style_resources.dart';
 import 'package:vendor_app_sample/presentation/screens/splash_screen.dart';
 
 class LoadingScreen extends StatefulWidget {

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_switch/flutter_switch.dart';
 import 'package:lottie/lottie.dart';
 import 'package:sizer/sizer.dart';
-import 'package:vendor_app_sample/presentation/resources/style_resources.dart';
+import 'package:vendor_app_sample/resources/style_resources.dart';
 
 class ProductDetialScreen extends StatefulWidget {
   const ProductDetialScreen({super.key});
